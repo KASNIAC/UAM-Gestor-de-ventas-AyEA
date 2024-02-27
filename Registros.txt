@@ -1,0 +1,7 @@
+
+Válvula de admisión  2150 1215 100 356
+Segueta  5478 1070 999 2369
+Válvula de descarga  3560 1990 20 586
+Taladro  1890 1815 300 2569
+Mezcladora tipo arandela  1202 995 75 7895
+Mesa 5479 234 999 99
